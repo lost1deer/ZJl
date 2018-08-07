@@ -1,0 +1,68 @@
+.mana-contant{
+	width: 1200px;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+ #mana-tit{
+	width: 1200px;
+	height: 50px;
+    line-height: 50px;
+	color: white;
+	font-size: 18px;
+	background-color: black;
+	text-align: center;
+}
+#inputpage{
+	width: 30px;
+	height: 30px;
+}
+tr .mana-tittle{
+	background-color: lightgray;
+}
+.num{
+	width: 120px;
+	border-bottom: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+}
+.name{
+	width: 249px;
+	border-bottom: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+}
+.type{
+	width: 114px;
+	border-bottom: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+	line-height: 60px;
+}
+
+.time{
+	width: 239px;
+	border-bottom: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+	line-height: 60px;
+}
+
+.mana-contant button{
+	width: 55px;
+	height: 35px;
+	background-color: white;
+	border: 1px solid lightgray;
+}
+.mana-contant button:hover{
+	background: ghostwhite;
+}
+.mana-contant button:active{
+	background: ghostwhite;
+}
+ .red{
+	background-color: #ff5622!important;
+}
+.red:hover{
+	background-color: orangered!important;
+}
+.red:active{
+	background-color: orangered!important;
+}
+
